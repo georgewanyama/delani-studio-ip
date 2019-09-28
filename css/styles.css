@@ -4,10 +4,134 @@
     height: 100vh;
 }   
 #logo{   
-color: #000;
+color:white;
 text-align: center;
-padding-top: 250px;
 font-size: bold;
+padding-top:250px;  
+}
+.mouse-click{
+   padding:10px;
 }
 
+#service{
+text-align:center;
+background-image: cover;
+height: 50vh;
+color:whitesmoke;
+
+ }
+#about{
+    text-align: center;
+}
+
+#ser{
+    background-image:url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true");
+    height:50vh;
+    padding-top: 50px;
+}
+.container{
+    padding-top: 3%;
+}
+#portfolio{
+  margin-bottom: 30px;
+}
+.col-md-3 img{
+    height: 100%;
+    width: 100%;
+}
+.activities{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    padding-top: 20px;
+} 
+
+.Portfolio{
+    padding: 20px;
+    text-align: center;
+}
+ .row1{
+    display: flex;
+    box-sizing: border-box;
+    padding: 30px,50px, 10px,20px;
+    border: 20px, 30px, 20px, 30px;
+    margin: 20px;
+    text-align: center;
+    flex-direction: row;
+
+}
+
+.PortF1{
+    padding: 20px, 20px, 20px, 20px;
+}
+ .col-sm-3{
+     flex:auto;
+     text-align: center;
+    
+ }
+ #contact{
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    margin-top: 100%px;
+    color:white;
+    padding-top:40px
+ }
+ input, textarea, button{
+    margin-bottom: 10px;
+    padding: 7px 5px;
+    border: 1px solid #fff;
+    background: transparent;
+    color: #fff;
+ }
+ ::placeholder{
+    color:white;
+ }
+ .btn button{
+    padding: 7px 10px;
+    width: 150px;
+    transition: border 0.2s;
+    font-size: 1.2rem;
+ }
+ input{
+    width:400px;
+ }
+ .contact-us{
+    padding-top: 20px;
+ }
+ .btn button:hover{
+    border: 2px solid lightseagreen
+ } 
+  
+ #foot{
+    text-align: center;
+    margin-top: 50px;
+ }
  
+ .footer-msg p{
+    padding-top:10px;
+    font-size: 0.7em;
+ }
+ ul>li{
+    display: inline-block
+ }
+ .design-showing{
+    display:none;
+ }
+ 
+    
+    
+    
+    
+ 
+
+ 
+     
+
+
+
+
+
+
