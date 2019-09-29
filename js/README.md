@@ -18,4 +18,12 @@ a)click on the design section to understand better how we do our design. b)click
  ##setup
 
  IF you wish to have a copy of this project running in your local machine for development purposes,you should follow the following steps; a)create a folder named 'third-project'in your documents folder. b)Then clone this link the link will be depoloyed
+  
+  ##TECHNOLOGIES USED
 
+  HTML
+  CSS
+  BOOTSTRAP
+  JS
+  JQUERY
+   
