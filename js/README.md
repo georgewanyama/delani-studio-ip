@@ -38,5 +38,15 @@ a)click on the design section to understand better how we do our design. b)click
     this is platform were you can easly login in the project projet is based html and js technologies
     ##bdd configure
     just fool me in git up i will direct easily direct easiy conifigure it 
+ 
+ ##LINCENCES
 
+ FIND THIS LINK IN THE GIT HUB ACCOUNT ALL 
+
+ com/https://githubgeorgewanyama/delani-studio-ip
+ 
+ ##COPYRIGHT 
+
+  FOLLLOW THE LINK EN THE RIGHT to copy you shuold find the there
+  com/https://githubgeorgewanyama/delani-studio-ip
     
