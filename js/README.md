@@ -26,4 +26,17 @@ a)click on the design section to understand better how we do our design. b)click
   BOOTSTRAP
   JS
   JQUERY
-   
+  1)I used HTML which is Hypertext Markup Language,it is a standard for describing the structure and presentation of information via the Internet.
+
+2)I also used css it is the language used to style the visual presentation of web pages.
+
+3)I also used javascript which is a "client-side" programming language and helps the sites to be more interactive.
+
+4)I also used jquery its purpose is to make it much easier to use JavaScript on your webs )I used HTML which is Hypertext Markup Language,it is a standard for describing the structure and presentation of information via the Internet.
+
+    ##BBD
+    this is platform were you can easly login in the project projet is based html and js technologies
+    ##bdd configure
+    just fool me in git up i will direct easily direct easiy conifigure it 
+
+    
