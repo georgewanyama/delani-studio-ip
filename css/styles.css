@@ -117,14 +117,18 @@ color:whitesmoke;
  ul>li{
     display: inline-block
  }
- .design-showing{
-    display:none;
- }
+
+.design-showing, .development-showing, .product-showing{
+  display: none;
+}
+.design-hidden, .development-hidden, .product-hidden{
+  cursor: pointer;
+
+
  
     
     
-    
-    
+
  
 
  
