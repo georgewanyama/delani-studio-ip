@@ -124,9 +124,7 @@ color:whitesmoke;
 .design-hidden, .development-hidden, .product-hidden{
   cursor: pointer;
 }
-.port-img:hover .one {
-   opacity: 0.6;
- }
+
 
 
  
