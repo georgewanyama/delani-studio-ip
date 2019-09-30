@@ -5,6 +5,7 @@ DELANI STUDIO
 GEORGE WANYAMA
 
 ##DESCRIPTION
+
 This is a delani-studio program that enables the user to look at my portfolio and the projects my company has been involved with. 1)In the about us section the user gets to learn more about our team.
 
 2)In the services section the user gets to know about our products.
