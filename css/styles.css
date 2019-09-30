@@ -74,10 +74,11 @@ color:whitesmoke;
     background-image: url("../assets/backgrounds/c_image.jpg");
     text-align: center;
     background-size: cover;
-    background-position: center;
-    margin-top: 100%px;
+    
+    margin-top: 8%;
     color:white;
-    padding-top:40px
+    padding-top:40px;
+    width:100% ;
  }
  input, textarea, button{
     margin-bottom: 10px;
